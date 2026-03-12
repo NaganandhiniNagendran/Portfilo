@@ -9,6 +9,8 @@ const nextConfig = {
   output: 'export',
   trailingSlash: true,
   distDir: 'out',
+  basePath: '/Portfilo',
+  assetPrefix: '/Portfilo',
 }
 
 export default nextConfig
